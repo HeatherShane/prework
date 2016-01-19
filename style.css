@@ -1,0 +1,42 @@
+body {
+	background-color: white;
+}
+
+
+.jumbotron {
+	position: relative;
+	background-color: white;
+	margin-top: 75px;
+	margin-left: 475px;
+	
+}
+
+.form-group {
+	position: static;
+	top: 75px
+	bottom: 15px;
+}
+
+
+
+footer {
+	background-color: #dcdcdc;
+	position: absolute;
+	width: 100%;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	padding: 2%;
+	vertical-align: middle;
+	float: left;
+}
+
+.list2{
+	display: inline-block;
+	list-style: none;
+	padding: 2%;
+	vertical-align: middle;
+	float: right;
+}
